@@ -1,5 +1,5 @@
 <h1 align=center>⭕️Manager Bot</h1>
-<img src = "https://telegra.ph/file/2345311d29a66213a9d98.jpg">
+<img src = "https://telegra.ph/file/9f981de2ed2f210ee812f.jpg">
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
